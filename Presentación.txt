@@ -14,3 +14,6 @@ Mi rol en este proyecto es administrador de BD
 
 Presentación Andrés Zapata
     Mi  rol en este proyecto es de Product Owner.
+
+Presentación Jorge Luis Arboleda Posada
+    Mi rol en este proyecto es de Desarrollador
